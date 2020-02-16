@@ -1,0 +1,15 @@
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\bin\Debug\AllegroTest.exe.config
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\bin\Debug\AllegroTest.exe
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\bin\Debug\AllegroTest.pdb
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\bin\Debug\nunit.framework.dll
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\bin\Debug\WebDriver.dll
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\bin\Debug\nunit.framework.pdb
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\bin\Debug\nunit.framework.xml
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\bin\Debug\WebDriver.xml
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\obj\Debug\AllegroTest.csprojAssemblyReference.cache
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\obj\Debug\AllegroTest.csproj.CoreCompileInputs.cache
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\obj\Debug\AllegroTest.csproj.CopyComplete
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\obj\Debug\AllegroTest.exe
+C:\Users\Msi\source\repos\AllegroTest\AllegroTest\obj\Debug\AllegroTest.pdb

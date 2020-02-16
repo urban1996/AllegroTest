@@ -1,0 +1,16 @@
+[0216/193046.973:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0216/193046.975:ERROR:exception_snapshot_win.cc(98)] thread ID 23320 not found in process
+[0216/193046.996:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0216/193046.996:ERROR:exception_snapshot_win.cc(98)] thread ID 16404 not found in process
+[0216/193124.895:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0216/193124.895:ERROR:exception_snapshot_win.cc(98)] thread ID 20748 not found in process
+[0216/193124.917:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0216/193124.917:ERROR:exception_snapshot_win.cc(98)] thread ID 24704 not found in process
+[0216/203255.499:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0216/203255.499:ERROR:exception_snapshot_win.cc(98)] thread ID 21940 not found in process
+[0216/203255.512:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0216/203255.512:ERROR:exception_snapshot_win.cc(98)] thread ID 25276 not found in process
+[0216/203255.536:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0216/203255.536:ERROR:exception_snapshot_win.cc(98)] thread ID 21716 not found in process
+[0216/203256.157:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0216/203256.157:ERROR:exception_snapshot_win.cc(98)] thread ID 14772 not found in process
